@@ -1,24 +1,28 @@
 let mysql = require('mysql');
-var pool = mysql.createPool({
+let pool = mysql.createPool({
   host:'127.0.0.1',
   user:'root',
   password:'',
-  database:'database',
-  port: 3306
+  port:3306,
+  database:'database'
 });
-var query=function(sql,callback){
-  pool.getConnection(function(err,conn){
+module.exports = function (sql,callback,value) {
+  pool.getConnection(function (err,conn) {
     if(err){
-      callback(err,null,null);
-    }else{
-      conn.query(sql,function(qerr,vals,fields){
-        //释放连接
-        conn.release();
-        //事件驱动回调
-        callback(qerr,vals,fields);
-      });
+      return console.log(err);
     }
-  });
+    if(value){
+      conn.query(sql,value,function (err,val,fileds) {
+        conn.release();
+        callback(err,val,fileds);
+      })
+    }else{
+      conn.query(sql,function (err,val,fileds) {
+        conn.release();
+        callback(err,val,fileds);
+      })
+    }
+
+  })
 };
 
-module.exports=query;
