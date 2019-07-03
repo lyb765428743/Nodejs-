@@ -3,7 +3,579 @@
   <component name="ChangeListManager">
     <list default="true" id="8269838b-6258-4a3b-9b12-04afd77ba8d1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/nodeJs_mysql/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/nodeJs_mysql/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/nodeJs_mysql/table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_bignumber.js@7.2.1@bignumber.js/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_bignumber.js@7.2.1@bignumber.js/LICENCE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_bignumber.js@7.2.1@bignumber.js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_bignumber.js@7.2.1@bignumber.js/bignumber.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_bignumber.js@7.2.1@bignumber.js/bignumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_bignumber.js@7.2.1@bignumber.js/bignumber.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_bignumber.js@7.2.1@bignumber.js/bignumber.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_bignumber.js@7.2.1@bignumber.js/bignumber.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_bignumber.js@7.2.1@bignumber.js/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_bignumber.js@7.2.1@bignumber.js/doc/API.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_bignumber.js@7.2.1@bignumber.js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_chinese-s2t@1.0.0@chinese-s2t/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_chinese-s2t@1.0.0@chinese-s2t/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_chinese-s2t@1.0.0@chinese-s2t/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_chinese-s2t@1.0.0@chinese-s2t/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_chinese-s2t@1.0.0@chinese-s2t/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_chinese-s2t@1.0.0@chinese-s2t/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_chinese-s2t@1.0.0@chinese-s2t/test/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_core-util-is@1.0.2@core-util-is/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_core-util-is@1.0.2@core-util-is/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_core-util-is@1.0.2@core-util-is/float.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_core-util-is@1.0.2@core-util-is/lib/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_core-util-is@1.0.2@core-util-is/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_core-util-is@1.0.2@core-util-is/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_inherits@2.0.4@inherits/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_inherits@2.0.4@inherits/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_inherits@2.0.4@inherits/inherits.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_inherits@2.0.4@inherits/inherits_browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_inherits@2.0.4@inherits/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_isarray@1.0.0@isarray/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_isarray@1.0.0@isarray/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_isarray@1.0.0@isarray/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_isarray@1.0.0@isarray/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_isarray@1.0.0@isarray/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_isarray@1.0.0@isarray/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_isarray@1.0.0@isarray/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_isarray@1.0.0@isarray/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/Changes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/License" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/Connection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/ConnectionConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/Pool.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/PoolCluster.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/PoolConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/PoolConnection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/PoolNamespace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/PoolSelector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/Auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/BufferList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/PacketHeader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/PacketWriter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/ResultSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/SqlString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/Timer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/constants/charsets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/constants/client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/constants/errors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/constants/field_flags.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/constants/server_status.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/constants/ssl_profiles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/constants/types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/AuthSwitchRequestPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/AuthSwitchResponsePacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/ClientAuthenticationPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/ComChangeUserPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/ComPingPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/ComQueryPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/ComQuitPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/ComStatisticsPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/EmptyPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/EofPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/ErrorPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/Field.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/FieldPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/HandshakeInitializationPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/LocalDataFilePacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/OkPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/OldPasswordPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/ResultSetHeaderPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/RowDataPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/SSLRequestPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/StatisticsPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/UseOldPasswordPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/packets/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/ChangeUser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Handshake.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Ping.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Query.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Quit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Sequence.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Statistics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/bignumber.js/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/bignumber.js/LICENCE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/bignumber.js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/bignumber.js/bignumber.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/bignumber.js/bignumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/bignumber.js/bignumber.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/bignumber.js/bignumber.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/bignumber.js/bignumber.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/bignumber.js/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/bignumber.js/doc/API.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/bignumber.js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/GOVERNANCE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/duplex-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/duplex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/lib/_stream_duplex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/lib/_stream_passthrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/lib/_stream_readable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/lib/_stream_transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/lib/_stream_writable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/lib/internal/streams/BufferList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/lib/internal/streams/destroy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/lib/internal/streams/stream-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/lib/internal/streams/stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/core-util-is/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/core-util-is/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/core-util-is/float.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/core-util-is/lib/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/core-util-is/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/core-util-is/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/inherits/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/inherits/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/inherits/inherits.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/inherits/inherits_browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/inherits/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/isarray/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/isarray/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/isarray/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/isarray/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/isarray/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/isarray/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/isarray/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/isarray/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/process-nextick-args/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/process-nextick-args/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/process-nextick-args/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/process-nextick-args/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/safe-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/safe-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/safe-buffer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/safe-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/safe-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/string_decoder/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/string_decoder/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/string_decoder/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/string_decoder/lib/string_decoder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/string_decoder/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/util-deprecate/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/util-deprecate/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/util-deprecate/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/util-deprecate/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/util-deprecate/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/node_modules/util-deprecate/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/passthrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/readable-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/readable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/writable-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/readable-stream/writable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/safe-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/safe-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/safe-buffer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/safe-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/safe-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/sqlstring/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/sqlstring/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/sqlstring/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/sqlstring/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/sqlstring/lib/SqlString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/node_modules/sqlstring/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_process-nextick-args@2.0.1@process-nextick-args/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_process-nextick-args@2.0.1@process-nextick-args/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_process-nextick-args@2.0.1@process-nextick-args/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_process-nextick-args@2.0.1@process-nextick-args/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/GOVERNANCE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/doc/wg-meetings/2015-01-30.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/duplex-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/duplex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/lib/_stream_duplex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/lib/_stream_passthrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/lib/_stream_readable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/lib/_stream_transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/lib/_stream_writable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/lib/internal/streams/BufferList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/lib/internal/streams/destroy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/lib/internal/streams/stream-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/lib/internal/streams/stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/core-util-is/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/core-util-is/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/core-util-is/float.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/core-util-is/lib/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/core-util-is/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/core-util-is/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/inherits/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/inherits/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/inherits/inherits.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/inherits/inherits_browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/inherits/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/isarray/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/isarray/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/isarray/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/isarray/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/isarray/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/isarray/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/isarray/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/isarray/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/process-nextick-args/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/process-nextick-args/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/process-nextick-args/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/process-nextick-args/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/safe-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/safe-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/safe-buffer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/safe-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/safe-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/string_decoder/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/string_decoder/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/string_decoder/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/string_decoder/lib/string_decoder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/string_decoder/node_modules/safe-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/string_decoder/node_modules/safe-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/string_decoder/node_modules/safe-buffer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/string_decoder/node_modules/safe-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/string_decoder/node_modules/safe-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/string_decoder/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/util-deprecate/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/util-deprecate/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/util-deprecate/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/util-deprecate/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/util-deprecate/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/node_modules/util-deprecate/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/passthrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/readable-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/readable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/writable-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_readable-stream@2.3.6@readable-stream/writable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_safe-buffer@5.1.2@safe-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_safe-buffer@5.1.2@safe-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_safe-buffer@5.1.2@safe-buffer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_safe-buffer@5.1.2@safe-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_safe-buffer@5.1.2@safe-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_sqlstring@2.3.1@sqlstring/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_sqlstring@2.3.1@sqlstring/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_sqlstring@2.3.1@sqlstring/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_sqlstring@2.3.1@sqlstring/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_sqlstring@2.3.1@sqlstring/lib/SqlString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_sqlstring@2.3.1@sqlstring/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_string_decoder@1.1.1@string_decoder/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_string_decoder@1.1.1@string_decoder/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_string_decoder@1.1.1@string_decoder/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_string_decoder@1.1.1@string_decoder/lib/string_decoder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_string_decoder@1.1.1@string_decoder/node_modules/safe-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_string_decoder@1.1.1@string_decoder/node_modules/safe-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_string_decoder@1.1.1@string_decoder/node_modules/safe-buffer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_string_decoder@1.1.1@string_decoder/node_modules/safe-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_string_decoder@1.1.1@string_decoder/node_modules/safe-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_string_decoder@1.1.1@string_decoder/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_util-deprecate@1.0.2@util-deprecate/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_util-deprecate@1.0.2@util-deprecate/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_util-deprecate@1.0.2@util-deprecate/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_util-deprecate@1.0.2@util-deprecate/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_util-deprecate@1.0.2@util-deprecate/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/_util-deprecate@1.0.2@util-deprecate/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/bignumber.js/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/bignumber.js/LICENCE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/bignumber.js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/bignumber.js/bignumber.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/bignumber.js/bignumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/bignumber.js/bignumber.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/bignumber.js/bignumber.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/bignumber.js/bignumber.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/bignumber.js/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/bignumber.js/doc/API.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/bignumber.js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/chinese-s2t/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/chinese-s2t/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/chinese-s2t/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/chinese-s2t/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/chinese-s2t/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/chinese-s2t/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/chinese-s2t/test/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/core-util-is/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/core-util-is/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/core-util-is/float.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/core-util-is/lib/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/core-util-is/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/core-util-is/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/inherits/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/inherits/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/inherits/inherits.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/inherits/inherits_browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/inherits/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/isarray/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/isarray/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/isarray/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/isarray/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/isarray/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/isarray/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/isarray/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/isarray/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/Changes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/License" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/Connection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/ConnectionConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/Pool.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/PoolCluster.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/PoolConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/PoolConnection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/PoolNamespace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/PoolSelector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/Auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/BufferList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/PacketHeader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/PacketWriter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/Parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/Protocol.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/ResultSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/SqlString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/Timer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/constants/charsets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/constants/client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/constants/errors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/constants/field_flags.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/constants/server_status.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/constants/ssl_profiles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/constants/types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/AuthSwitchRequestPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/AuthSwitchResponsePacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/ClientAuthenticationPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/ComChangeUserPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/ComPingPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/ComQueryPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/ComQuitPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/ComStatisticsPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/EmptyPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/EofPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/ErrorPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/Field.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/FieldPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/HandshakeInitializationPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/LocalDataFilePacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/OkPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/OldPasswordPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/ResultSetHeaderPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/RowDataPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/SSLRequestPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/StatisticsPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/UseOldPasswordPacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/packets/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/sequences/ChangeUser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/sequences/Handshake.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/sequences/Ping.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/sequences/Query.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/sequences/Quit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/sequences/Sequence.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/sequences/Statistics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/lib/protocol/sequences/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/bignumber.js/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/bignumber.js/LICENCE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/bignumber.js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/bignumber.js/bignumber.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/bignumber.js/bignumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/bignumber.js/bignumber.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/bignumber.js/bignumber.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/bignumber.js/bignumber.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/bignumber.js/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/bignumber.js/doc/API.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/bignumber.js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/GOVERNANCE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/duplex-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/duplex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/lib/_stream_duplex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/lib/_stream_passthrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/lib/_stream_readable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/lib/_stream_transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/lib/_stream_writable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/lib/internal/streams/BufferList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/lib/internal/streams/destroy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/lib/internal/streams/stream-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/lib/internal/streams/stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/core-util-is/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/core-util-is/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/core-util-is/float.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/core-util-is/lib/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/core-util-is/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/core-util-is/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/inherits/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/inherits/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/inherits/inherits.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/inherits/inherits_browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/inherits/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/isarray/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/isarray/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/isarray/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/isarray/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/isarray/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/isarray/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/isarray/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/isarray/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/process-nextick-args/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/process-nextick-args/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/process-nextick-args/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/process-nextick-args/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/safe-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/safe-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/safe-buffer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/safe-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/safe-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/string_decoder/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/string_decoder/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/string_decoder/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/string_decoder/lib/string_decoder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/string_decoder/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/util-deprecate/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/util-deprecate/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/util-deprecate/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/util-deprecate/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/util-deprecate/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/node_modules/util-deprecate/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/passthrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/readable-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/readable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/writable-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/readable-stream/writable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/safe-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/safe-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/safe-buffer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/safe-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/safe-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/sqlstring/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/sqlstring/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/sqlstring/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/sqlstring/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/sqlstring/lib/SqlString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/node_modules/sqlstring/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/mysql/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/process-nextick-args/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/process-nextick-args/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/process-nextick-args/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/process-nextick-args/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/GOVERNANCE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/duplex-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/duplex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/lib/_stream_duplex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/lib/_stream_passthrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/lib/_stream_readable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/lib/_stream_transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/lib/_stream_writable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/lib/internal/streams/BufferList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/lib/internal/streams/destroy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/lib/internal/streams/stream-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/lib/internal/streams/stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/core-util-is/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/core-util-is/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/core-util-is/float.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/core-util-is/lib/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/core-util-is/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/core-util-is/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/inherits/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/inherits/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/inherits/inherits.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/inherits/inherits_browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/inherits/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/isarray/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/isarray/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/isarray/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/isarray/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/isarray/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/isarray/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/isarray/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/isarray/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/process-nextick-args/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/process-nextick-args/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/process-nextick-args/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/process-nextick-args/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/safe-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/safe-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/safe-buffer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/safe-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/safe-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/string_decoder/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/string_decoder/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/string_decoder/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/string_decoder/lib/string_decoder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/string_decoder/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/util-deprecate/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/util-deprecate/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/util-deprecate/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/util-deprecate/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/util-deprecate/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/node_modules/util-deprecate/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/passthrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/readable-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/readable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/writable-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/readable-stream/writable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/safe-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/safe-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/safe-buffer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/safe-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/safe-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/sqlstring/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/sqlstring/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/sqlstring/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/sqlstring/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/sqlstring/lib/SqlString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/sqlstring/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/string_decoder/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/string_decoder/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/string_decoder/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/string_decoder/lib/string_decoder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/string_decoder/node_modules/safe-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/string_decoder/node_modules/safe-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/string_decoder/node_modules/safe-buffer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/string_decoder/node_modules/safe-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/string_decoder/node_modules/safe-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/string_decoder/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/util-deprecate/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/util-deprecate/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/util-deprecate/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/util-deprecate/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/util-deprecate/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/node_modules/util-deprecate/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJs_mysql/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/nodeJs_mysql/test.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,34 +584,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.40867093">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/nodeJs_mysql/index.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret selection-end-line="3" selection-end-column="27" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/nodeJs_mysql/test.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="21" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/express/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -60,23 +615,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/nodeJs_mysql/table.sql" />
-        <option value="$PROJECT_DIR$/nodeJs_mysql/index.js" />
+        <option value="$PROJECT_DIR$/nodeJs_mysql/db.js" />
         <option value="$PROJECT_DIR$/nodeJs_mysql/test.js" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/nodeJs.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/nodeJs_mysql/index.js" />
+        <option value="$PROJECT_DIR$/express/index.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+    <option name="x" value="248" />
+    <option name="y" value="-8" />
     <option name="width" value="1680" />
     <option name="height" value="953" />
   </component>
@@ -86,6 +634,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,23 +642,23 @@
               <item name="nodeJs" type="b2602c69:ProjectViewProjectNode" />
               <item name="nodeJs" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="nodeJs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nodeJs" type="462c0819:PsiDirectoryNode" />
-              <item name="nodeJs_mysql" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/nodeJs_mysql" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\nodeJs\nodeJs_mysql" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -134,24 +683,19 @@
       <option name="presentableId" value="Default" />
       <updated>1562060543857</updated>
       <workItem from="1562060545061" duration="5304000" />
+      <workItem from="1562117121880" duration="6431000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5304000" />
+    <option name="totallyTimeSpent" value="11735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -159,10 +703,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,31 +755,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodeJs_mysql/db.js">
+    <entry file="file://$PROJECT_DIR$/nodeJs_mysql/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="26" />
+        <state relative-caret-position="197">
+          <caret line="143" column="47" selection-start-line="143" selection-start-column="47" selection-end-line="143" selection-end-column="47" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeJs_mysql/database.sql">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/nodeJs_mysql/table.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodeJs_mysql/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="27" />
+        <state relative-caret-position="216">
+          <caret line="11" column="32" lean-forward="true" selection-end-line="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nodeJs_mysql/test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="21" />
+        <state relative-caret-position="353">
+          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeJs_mysql/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeJs_mysql/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="38" column="6" lean-forward="true" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.sql">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="125280">
+          <caret line="4640" column="47" lean-forward="true" selection-start-line="4640" selection-start-column="47" selection-end-line="4640" selection-end-column="47" />
         </state>
       </provider>
     </entry>

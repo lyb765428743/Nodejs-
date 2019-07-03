@@ -18,7 +18,6 @@ let path = require('path');
         })
       }
     })
-    console.log(2111)
     let sql = 'insert into tangshi (title,content,author) values ?';
     query(sql, (err, val, fields) => {
       if (err) {

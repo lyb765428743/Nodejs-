@@ -151,7 +151,7 @@ let path = require('path');
     data.forEach(item => {
       vals.push([S.t2s(item.name), S.t2s(item.description)]);
     })
-    let sql = 'insert into ss_author (name,description) values ?'
+    let sql = 'insert into ci_author (name,description) values ?'
     query(sql,(err,val,fields)=>{
       if(err){return console.log(err);}
       console.log('词作者完成')
